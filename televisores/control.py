@@ -1,6 +1,4 @@
 class Control:
-    def __init__(self):
-        self.__tv 
 
     def enlazar(self, tv):
         self.setTv(tv)
@@ -35,4 +33,3 @@ class Control:
 
     def setVolumen(self, volumen):
         self.__tv.setVolumen(volumen)
-        
